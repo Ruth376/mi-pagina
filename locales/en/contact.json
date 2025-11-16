@@ -1,0 +1,9 @@
+{
+  "title": "Contact",
+  "description": "Let's talk! You can write to me directly or reach me through my networks:",
+  "emailButton": "Send email",
+  "nameLabel": "Name",
+  "emailLabel": "Email",
+  "messageLabel": "Message",
+  "sendButton": "Send message"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Projects",
+  "viewProject": "View project",
+  
+  "project1": {
+    "name": "Task Manager",
+    "description": "Web application to manage tasks with authentication and persistence, built with React, Node.js, and Tailwind CSS."
+  },
+  "project2": {
+    "name": "REST API with Spring Boot",
+    "description": "Backend API developed in Java with Spring Boot, connected to MongoDB and deployable with Docker."
+  }
+}

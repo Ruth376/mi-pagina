@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Scroll suave */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Estilos base del body */
+body {
+  @apply transition-colors duration-500;
+}
+
+/* 🌞 Modo claro */
+:root {
+  --bg-gradient: linear-gradient(135deg, #f9fafb, #e5e7eb);
+  --text-color: #111827;
+}
+
+/* 🌙 Modo oscuro */
+.dark {
+  --bg-gradient: linear-gradient(135deg, #111827, #1f2937);
+  --text-color: #e5e7eb;
+}
+
+/* Aplicar las variables al body */
+body {
+  background: var(--bg-gradient);
+  color: var(--text-color);
+  font-family: Arial, Helvetica, sans-serif;
+}

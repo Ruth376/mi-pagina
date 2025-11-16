@@ -1,0 +1,13 @@
+{
+  "title": "Proyectos",
+  "viewProject": "Ver proyecto",
+  
+  "project1": {
+    "name": "Gestor de Tareas",
+    "description": "Aplicación web para gestionar tareas con autenticación y persistencia, desarrollada con React, Node.js y Tailwind CSS."
+  },
+  "project2": {
+    "name": "API REST con Spring Boot",
+    "description": "API backend desarrollada en Java con Spring Boot, conectada a MongoDB y desplegable con Docker."
+  }
+}

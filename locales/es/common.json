@@ -1,0 +1,11 @@
+{
+  "home": "Inicio",
+  "about": "Sobre mí",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+
+  "greeting": "¡Hola, soy Ruth Rojas!",
+  "greetingPrefix": "¡Hola, soy",
+  "intro": "Desarrolladora backend con experiencia en Java + Spring Boot, contenedores con Docker, bases de datos MongoDB y control de versiones con Git. Actualmente aprendiendo tecnologías frontend y fullstack: Node.js, React y Next.js.",
+  "seeProjects": "Ver mis proyectos"
+}

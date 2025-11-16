@@ -1,0 +1,11 @@
+{
+  "home": "Home",
+  "about": "About Me",
+  "projects": "Projects",
+  "contact": "Contact",
+
+  "greeting": "Hi, I'm Ruth Rojas!",
+  "greetingPrefix": "Hi, I'm",
+  "intro": "Backend developer with experience in Java + Spring Boot, Docker containers, MongoDB databases, and version control with Git. Currently learning frontend and fullstack technologies: Node.js, React, and Next.js.",
+  "seeProjects": "See my projects"
+}
