@@ -30,7 +30,7 @@ export default function ProjectsPage() {
       name: t("project1.name", "projects"),
       description: t("project1.description", "projects"),
       tech: ["Node.js", "React", "Tailwind CSS"],
-      link: "https://github.com/Ruth376/gestor-tareas",
+      link: "https://github.com/Ruth376/mi-pagina",
     },
     {
       name: t("project2.name", "projects"),
